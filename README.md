@@ -15,13 +15,13 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 
 ## 🚀 **My Favorite Tools and Technologies**
 
-| ![JavaScript](https://media.giphy.com/media/4Zps4XP6Rj0bGkTkzS/giphy.gif) | ![React](https://media.giphy.com/media/XyPbJOTmtOgnq/giphy.gif) | ![TypeScript](https://media.giphy.com/media/3oEjI6S2wDJr7YbVZ2/giphy.gif) |
-| ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Node.js](https://media.giphy.com/media/Xa1XshYO4y8tO/giphy.gif) | ![Next.js](https://media.giphy.com/media/YkJj3d0ikGZnJ98qN9/giphy.gif) | ![C#](https://media.giphy.com/media/11tTN5MDrD4FJ2/giphy.gif) |
-| ![CSS](https://media.giphy.com/media/9T8ZoyIj4gG3zAZ8hL/giphy.gif) | ![HTML5](https://media.giphy.com/media/fA7f8i6t5g5t4/giphy.gif) | ![Tailwind CSS](https://media.giphy.com/media/XcYk3jJwVxvQw1xwtA/giphy.gif) |
-| ![Unity](https://media.giphy.com/media/o0e7h3S0X4x2v66GpQ/giphy.gif) | ![VSCode](https://media.giphy.com/media/8Hlw1EgmPLNeM/giphy.gif) | ![Visual Studio](https://media.giphy.com/media/fR9s39joTqOvm/giphy.gif) |
-| ![Firebase](https://media.giphy.com/media/5YybKj3Egs3zu/giphy.gif) | ![MongoDB](https://media.giphy.com/media/2xKYQ1bF1a59G0iB2o/giphy.gif) | ![SQL](https://media.giphy.com/media/3oEjI6S2wDJr7YbVZ2/giphy.gif) |
-| ![GitHub](https://media.giphy.com/media/xUOwG7lHGtxZnVpPao/giphy.gif) | ![Figma](https://media.giphy.com/media/fnlEKIuzvZIs7qXw62/giphy.gif) | ![Bootstrap](https://media.giphy.com/media/3o7aD2v7eX2yHZ7lfo/giphy.gif) |
+| ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4e/Typescript_logo_2020.svg) |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) | ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/80/Nextjs-logo.svg) | ![C#](https://upload.wikimedia.org/wikipedia/commons/4/47/CSharp_Logo.png) |
+| ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg) | ![HTML5](https://upload.wikimedia.org/wikipedia/commons/7/7a/HTML5_logo.svg) | ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tailwind_CSS_Logo.svg) |
+| ![Unity](https://upload.wikimedia.org/wikipedia/commons/b/b9/Unity_Logo.png) | ![VSCode](https://upload.wikimedia.org/wikipedia/commons/a/a1/Visual_Studio_Code_1.35_icon.png) | ![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/4/4e/Visual_Studio_2019_logo.svg) |
+| ![Firebase](https://upload.wikimedia.org/wikipedia/commons/4/47/Firebase_Logo.png) | ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.png) | ![SQL](https://upload.wikimedia.org/wikipedia/commons/4/46/SQL_logo.png) |
+| ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) | ![Figma](https://upload.wikimedia.org/wikipedia/commons/d/d5/Figma-logo.svg) | ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/d/d9/Bootstrap_logo.svg) |
 
 ---
 
