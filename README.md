@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 ## 🖥️ **About Me**  
 
 - 🌟 I specialize in web and mobile application development.  
-- 🔧 Currently honing my skills in Next.js, TypeScript, and Tailwind CSS.  
 - 💡 Always curious about exploring innovative solutions and best practices in software development.  
 - 📷 When I’m not coding, I love exploring the world through my **camera lens**.
 
@@ -27,7 +26,7 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 
 - **Studied** Computer Engineering, with hands-on projects in web and mobile development.
 - **2+ years** of experience as a software developer, focusing on web and mobile applications.
-- Currently exploring **Next.js**, **TypeScript**, and other modern technologies to keep improving.
+- Currently exploring **Next.js**, **TypeScript**, **Tailwind CSS**, and other modern technologies to keep improving.
 - **Passionate** about building impactful solutions and continuously learning new things.
 
 ---
