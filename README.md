@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Nur!
+# Hi, I'm Esma Nur
 
-Welcome to my GitHub! I'm a passionate software developer with a strong focus on building intuitive, efficient, and scalable solutions. I love exploring new technologies and contributing to impactful projects.
-
----
-
-## 🖥️ **About Me**  
-
-- 🌟 I specialize in web and mobile application development.  
-- 💡 Always curious about exploring innovative solutions and best practices in software development.  
-- 📷 When I’m not coding, I love exploring the world through my **camera lens**.
+Welcome to my GitHub. I’m a software developer and Master’s student based in Stockholm, focused on building clean, user-friendly, and reliable web and mobile applications. I enjoy learning new technologies, solving real problems, and working on projects that combine creativity with technical thinking. I’m especially interested in Frontend development, XR (AR/VR), immersive technologies, and interactive experiences.
 
 ---
 
-## 🚀 **My Favorite Tools and Technologies**
+## About Me
+
+I have two years of hands-on experience in software development, mainly within web and mobile applications. I enjoy building practical solutions with a strong focus on usability, performance, and clean design. I’m currently continuing my journey as a Master’s student in **Design for Creative and Immersive Technology** at Stockholm University, where I combine software engineering, design, and XR development to create engaging digital experiences.
+
+Outside of coding, I enjoy photography and exploring new places. These interests influence how I approach design, problem-solving, and user experience.
+
+---
+
+## **My Favorite Tools and Technologies**
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"> <br> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"> <br> React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60"> <br> TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"> <br> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60"> <br> Next.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" height="60"> <br> C# |
 | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -22,22 +22,14 @@ Welcome to my GitHub! I'm a passionate software developer with a strong focus on
 
 ---
 
-### 📚 My Journey
+## My Journey
 
-- **Studied** Computer Engineering, with hands-on projects in web and mobile development.
-- **2+ years** of experience as a software developer, focusing on web and mobile applications.
-- Currently exploring **Next.js**, **TypeScript**, **Tailwind CSS**, and other modern technologies to keep improving.
-- **Passionate** about building impactful solutions and continuously learning new things.
+- Bachelor’s degree in **Computer Engineering**
+- **2 years of professional experience** as a software developer  
+- Currently pursuing a **Master’s degree in Design for Creative and Immersive Technology** at Stockholm University  
+- Focus areas: **Frontend development, XR (AR/VR), Unity, immersive technologies**  
+- Actively seeking **internship and junior software development** roles.
 
----
-
-### 🛠️ Current Projects
-
-I am currently working on the following project:
-
-1. **School Management Dashboard** - A web-based school management dashboard built using React and Next.js for managing students, teachers, and class schedules.
-
----
 
 ### 📬 Let's Connect!
 
