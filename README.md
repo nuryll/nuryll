@@ -35,7 +35,8 @@ Outside of coding, I enjoy photography and exploring new places. These interests
 
 - [LinkedIn](https://www.linkedin.com/in/nur-y-556989257/)
 - [GitHub](https://github.com/nuryll)
-  
+- [My Website](https://nuryucell.my.canva.site/)
+
 ---
 
 Feel free to explore my repositories and get in touch if you want to collaborate on a project or if you have any questions!
