@@ -28,7 +28,7 @@ Outside of coding, I enjoy photography and exploring new places. These interests
 - **2 years of professional experience** as a software developer  
 - Currently pursuing a **Master’s degree in Design for Creative and Immersive Technology** at Stockholm University  
 - Focus areas: **Frontend development, XR (AR/VR), Unity, immersive technologies**  
-- Actively seeking **internship and junior software development** roles.
+- Open to internship and junior-level opportunities.
 
 
 ### 📬 Let's Connect!
