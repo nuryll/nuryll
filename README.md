@@ -2,21 +2,11 @@
 
 Software Developer & Master’s Student in Design for Creative and Immersive Technology at Stockholm University
 
-I build **clean, user-friendly web applications** and **immersive XR experiences**. My background combines **software engineering, frontend development, and XR (AR/VR)**, with a strong focus on usability, performance, and interactive design.
+I have **2 years of professional experience** creating scalable, user-centered web and mobile solutions. I enjoy turning ideas into real products and collaborating in environments where design and technology meet.
 
-Currently, I’m exploring how **creative technology and immersive systems** can improve digital experiences, learning, and storytelling.
+Through my Master’s program, I’m deepening my skills in **XR development, frontend engineering, and interactive systems**. Exploring different fields has strengthened my creativity and helps me approach problems from multiple perspectives.
 
----
-
-## About Me
-
-I have **2 years of professional experience** working with web and mobile applications, focusing on building practical, scalable, and user-centered solutions. I enjoy turning ideas into real products and collaborating in environments where design and technology meet.
-
-I’m currently pursuing a **Master’s degree in Design for Creative and Immersive Technology** at Stockholm University, with a strong interest in **XR development, frontend engineering, and interactive systems**.
-
-Exploring different fields has strengthened my creativity and enabled me to approach problems from multiple perspectives.
-
-Outside of tech, I enjoy **photography and exploring new places**, which influence how I think about composition, storytelling, and user experience.
+Outside of tech, I enjoy **photography and exploring new places**, which inspire my approach to storytelling and user experience.
 
 ---
 
@@ -46,7 +36,6 @@ Outside of tech, I enjoy **photography and exploring new places**, which influen
 - **2 years of experience** as a Software Developer  
 - Currently pursuing a **Master’s in Design for Creative and Immersive Technology**  
 - Strong interest in **frontend development, XR (AR/VR), and immersive systems**  
-- Open to **internship and junior-level opportunities**
 
 
 ---
@@ -59,5 +48,5 @@ Outside of tech, I enjoy **photography and exploring new places**, which influen
 - [My Website](https://nuryucell.my.canva.site/)
 
 
-If you're interested in **XR projects, frontend development, or creative technology collaborations**, feel free to reach out.
+If you're interested in **XR projects, frontend development, or immersive technology collaborations**, feel free to reach out.
 
