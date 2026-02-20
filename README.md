@@ -1,18 +1,36 @@
 # Hi, I'm Esma Nur
 
-Welcome to my GitHub. I’m a software developer and Master’s student based in Stockholm, focused on building clean, user-friendly, and reliable web and mobile applications. I enjoy learning new technologies, solving real problems, and working on projects that combine creativity with technical thinking. I’m especially interested in Frontend development, XR (AR/VR), immersive technologies, and interactive experiences.
+Software Developer & Master’s Student in Design for Creative and Immersive Technology at Stockholm University
+
+I build **clean, user-friendly web applications** and **immersive XR experiences**. My background combines **software engineering, frontend development, and XR (AR/VR)**, with a strong focus on usability, performance, and interactive design.
+
+Currently, I’m exploring how **creative technology and immersive systems** can improve digital experiences, learning, and storytelling.
 
 ---
 
 ## About Me
 
-I have two years of hands-on experience in software development, mainly within web and mobile applications. I enjoy building practical solutions with a strong focus on usability, performance, and clean design. I’m currently continuing my journey as a Master’s student in **Design for Creative and Immersive Technology** at Stockholm University, where I combine software engineering, design, and XR development to create engaging digital experiences.
+I have **2 years of professional experience** working with web and mobile applications, focusing on building practical, scalable, and user-centered solutions. I enjoy turning ideas into real products and collaborating in environments where design and technology meet.
 
-Outside of coding, I enjoy photography and exploring new places. These interests influence how I approach design, problem-solving, and user experience.
+I’m currently pursuing a **Master’s degree in Design for Creative and Immersive Technology** at Stockholm University, with a strong interest in **XR development, frontend engineering, and interactive systems**.
+
+Exploring different fields has strengthened my creativity and enabled me to approach problems from multiple perspectives.
+
+Outside of tech, I enjoy **photography and exploring new places**, which influence how I think about composition, storytelling, and user experience.
 
 ---
 
-## **My Favorite Tools and Technologies**
+## Focus Areas
+
+- Frontend Development (React, Next.js, TypeScript)
+- XR Development (Unity, C#, AR/VR)
+- Interactive & Immersive Experiences
+- Creative Technology & UX-driven Development
+
+---
+
+
+## Tools & Technologies
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"> <br> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"> <br> React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60"> <br> TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"> <br> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60"> <br> Next.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" height="60"> <br> C# |
 | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -24,21 +42,22 @@ Outside of coding, I enjoy photography and exploring new places. These interests
 
 ## My Journey
 
-- Bachelor’s degree in **Computer Engineering**
-- **2 years of professional experience** as a software developer  
-- Currently pursuing a **Master’s degree in Design for Creative and Immersive Technology** at Stockholm University  
-- Focus areas: **Frontend development, XR (AR/VR), Unity, immersive technologies**  
-- Open to internship and junior-level opportunities.
+- Bachelor’s degree in **Computer Engineering**  
+- **2 years of experience** as a Software Developer  
+- Currently pursuing a **Master’s in Design for Creative and Immersive Technology**  
+- Strong interest in **frontend development, XR (AR/VR), and immersive systems**  
+- Open to **internship and junior-level opportunities**
 
 
-### 📬 Let's Connect!
+---
+
+
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nur-y-556989257/)
 - [GitHub](https://github.com/nuryll)
 - [My Website](https://nuryucell.my.canva.site/)
 
----
 
-Feel free to explore my repositories and get in touch if you want to collaborate on a project or if you have any questions!
-
+If you're interested in **XR projects, frontend development, or creative technology collaborations**, feel free to reach out.
 
