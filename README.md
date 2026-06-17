@@ -1,6 +1,6 @@
 # Hi, I'm Esma Nur
 
-Unity | XR Developer, and Software Developer currently pursuing a Master’s in Design for Creative and Immersive Technology at Stockholm University.
+Software Developer & Master’s Student in Design for Creative and Immersive Technology at Stockholm University
 
 With 2+ years of professional experience, I build interactive applications across XR, AR, mobile, and web platforms. My work combines technical development with user-centered design, focusing on immersive systems, gameplay mechanics, and real-time experiences.
 
