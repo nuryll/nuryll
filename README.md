@@ -1,12 +1,12 @@
 # Hi, I'm Esma Nur
 
-Software Developer & Master’s Student in Design for Creative and Immersive Technology at Stockholm University
+Unity Developer, XR Developer, and Software Engineer currently pursuing a Master’s in Design for Creative and Immersive Technology at Stockholm University.
 
-I have **2 years of professional experience** creating scalable, user-centered web and mobile solutions. I enjoy turning ideas into real products and collaborating in environments where design and technology meet.
+With 2+ years of professional experience, I build interactive applications across XR, AR, mobile, and web platforms. My work combines technical development with user-centered design, focusing on immersive systems, gameplay mechanics, and real-time experiences.
 
-Through my Master’s program, I’m deepening my skills in **XR development, frontend engineering, and interactive systems**. Exploring different fields has strengthened my creativity and helps me approach problems from multiple perspectives.
+Through both industry and academic projects, I’ve worked on educational games, AR training systems, multiplayer XR experiences, and AI-assisted tools. I enjoy creating products where technology, interaction, and creativity come together.
 
-Outside of tech, I enjoy **photography and exploring new places**, which inspire my approach to storytelling and user experience.
+Outside of tech, I enjoy photography and exploring new places, which inspire my approach to storytelling and experience design.
 
 ---
 
